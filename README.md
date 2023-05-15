@@ -1,4 +1,18 @@
 # tmux_profile
+## 安装tmux
+
+以Ubunut为例：
+
+```bash
+apt-get install tmux
+```
+
+以centos为例：
+
+```bash
+yum install tmux
+```
+
 ## 配置特点
 
 最大的特点就是增加了右键快捷菜单栏和鼠标改变pane大小，剩下的功能就需要大家在使用过程中慢慢发现了
